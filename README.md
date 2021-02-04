@@ -1,1 +1,2 @@
-# P69
+# Barcode-Scanner
+C 69 Project
